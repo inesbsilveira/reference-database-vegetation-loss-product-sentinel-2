@@ -23,7 +23,7 @@ The study aims to develop a robust reference database to serve as training data 
       - S2_T29SNB
       - S2_T29SNB2
 
-where "S2_{tile_name} is a folder containing the S2 images for the tile
+where "S2_{tile_name}" is a folder containing the S2 images for the tile
 
 #### Requirements
 QGIS 3.34.3 or higher\
